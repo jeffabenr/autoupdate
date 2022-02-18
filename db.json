@@ -1,8 +1,9 @@
 {
-  "Jogos": [
-    {
-      "id": 1,
-      "Nome": Bomberman,
-      "versao": "0.0.0.1"
-    }
+   "Jogos":[
+      {
+         "id":1,
+         "Nome":"Bomberman",
+         "versao":"0.0.0.1"
+      }
+   ]
 }
